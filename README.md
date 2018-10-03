@@ -1,2 +1,2 @@
-# homebrew-poddotify
-Homebrew distribution repository for poddotify tool
+# homebrew-tools
+Homebrew distribution repository for personal open source tools
